@@ -37,7 +37,7 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.49716,-20.15508</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 12:00Z0.0kts, -9.0°</name>
+<Placemark><name>2025-02-08 12:00Z0.0kts, 351.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.49716,-20.15509</coordinates></Point>
@@ -57,37 +57,37 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.39508,-20.02081</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 16:00Z6.8kts, -169.0°</name>
+<Placemark><name>2025-02-08 16:00Z6.8kts, 191.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.43742,-19.91521</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 17:00Z6.9kts, -163.0°</name>
+<Placemark><name>2025-02-08 17:00Z6.9kts, 197.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.49147,-19.81262</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 18:00Z7.0kts, -160.0°</name>
+<Placemark><name>2025-02-08 18:00Z7.0kts, 200.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.54873,-19.7092</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 19:00Z5.8kts, -154.0°</name>
+<Placemark><name>2025-02-08 19:00Z5.8kts, 206.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.60432,-19.6281</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 20:00Z1.9kts, -93.0°</name>
+<Placemark><name>2025-02-08 20:00Z1.9kts, 267.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.63848,-19.62716</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 21:00Z1.2kts, -117.0°</name>
+<Placemark><name>2025-02-08 21:00Z1.2kts, 243.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.65869,-19.61976</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-08 22:00Z1.4kts, -126.0°</name>
+<Placemark><name>2025-02-08 22:00Z1.4kts, 234.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.68061,-19.60823</coordinates></Point>
@@ -122,12 +122,12 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.52883,-19.60849</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 05:00Z3.0kts, -79.0°</name>
+<Placemark><name>2025-02-09 05:00Z3.0kts, 281.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.58149,-19.61652</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 06:00Z1.0kts, -39.0°</name>
+<Placemark><name>2025-02-09 06:00Z1.0kts, 321.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.59447,-19.62803</coordinates></Point>
@@ -137,7 +137,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.58826,-19.63192</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 08:00Z0.4kts, -141.0°</name>
+<Placemark><name>2025-02-09 08:00Z0.4kts, 219.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5928,-19.6279</coordinates></Point>
@@ -147,17 +147,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.59264,-19.62647</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 10:00Z0.1kts, -61.0°</name>
+<Placemark><name>2025-02-09 10:00Z0.1kts, 299.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.59454,-19.62723</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 11:00Z0.1kts, -63.0°</name>
+<Placemark><name>2025-02-09 11:00Z0.1kts, 297.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.59635,-19.62787</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 12:00Z0.0kts, -58.0°</name>
+<Placemark><name>2025-02-09 12:00Z0.0kts, 302.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.59651,-19.62794</coordinates></Point>
@@ -172,7 +172,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56951,-19.6285</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 15:00Z0.0kts, -79.0°</name>
+<Placemark><name>2025-02-09 15:00Z0.0kts, 281.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56952,-19.6285</coordinates></Point>
@@ -187,17 +187,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.55062,-19.63126</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 18:00Z0.0kts, -1.0°</name>
+<Placemark><name>2025-02-09 18:00Z0.0kts, 359.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.55064,-19.63183</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 19:00Z0.6kts, -73.0°</name>
+<Placemark><name>2025-02-09 19:00Z0.6kts, 287.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.56178,-19.63434</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 20:00Z1.4kts, -81.0°</name>
+<Placemark><name>2025-02-09 20:00Z1.4kts, 279.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.58661,-19.63741</coordinates></Point>
@@ -207,12 +207,12 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.58637,-19.63742</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 22:00Z0.6kts, -47.0°</name>
+<Placemark><name>2025-02-09 22:00Z0.6kts, 313.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.5951,-19.64312</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-09 23:00Z0.7kts, -40.0°</name>
+<Placemark><name>2025-02-09 23:00Z0.7kts, 320.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.60453,-19.65102</coordinates></Point>
@@ -242,7 +242,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56605,-19.63029</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 05:00Z0.0kts, -66.0°</name>
+<Placemark><name>2025-02-10 05:00Z0.0kts, 294.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56634,-19.63038</coordinates></Point>
@@ -252,17 +252,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56603,-19.63023</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 07:00Z0.0kts, -56.0°</name>
+<Placemark><name>2025-02-10 07:00Z0.0kts, 304.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56622,-19.63032</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 08:00Z0.0kts, -142.0°</name>
+<Placemark><name>2025-02-10 08:00Z0.0kts, 218.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56623,-19.63031</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 09:00Z0.0kts, -169.0°</name>
+<Placemark><name>2025-02-10 09:00Z0.0kts, 191.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56624,-19.63029</coordinates></Point>
@@ -277,22 +277,22 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56623,-19.63031</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 12:00Z0.1kts, -73.0°</name>
+<Placemark><name>2025-02-10 12:00Z0.1kts, 287.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56838,-19.63078</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 13:00Z0.0kts, -70.0°</name>
+<Placemark><name>2025-02-10 13:00Z0.0kts, 290.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56884,-19.6309</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 14:00Z0.0kts, -168.0°</name>
+<Placemark><name>2025-02-10 14:00Z0.0kts, 192.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56884,-19.63089</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 15:00Z0.0kts, -32.0°</name>
+<Placemark><name>2025-02-10 15:00Z0.0kts, 328.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.56885,-19.6309</coordinates></Point>
@@ -317,17 +317,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53454,-19.63062</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 20:00Z0.9kts, -84.0°</name>
+<Placemark><name>2025-02-10 20:00Z0.9kts, 276.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.55001,-19.63175</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 21:00Z0.4kts, -62.0°</name>
+<Placemark><name>2025-02-10 21:00Z0.4kts, 298.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.55657,-19.63423</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-10 22:00Z1.7kts, -84.0°</name>
+<Placemark><name>2025-02-10 22:00Z1.7kts, 276.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.58634,-19.63679</coordinates></Point>
@@ -337,7 +337,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.58493,-19.63943</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 00:00Z0.7kts, -121.0°</name>
+<Placemark><name>2025-02-11 00:00Z0.7kts, 239.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.59564,-19.63499</coordinates></Point>
@@ -347,17 +347,17 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.59419,-19.6372</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 02:00Z0.9kts, -11.0°</name>
+<Placemark><name>2025-02-11 02:00Z0.9kts, 349.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.59834,-19.65233</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 03:00Z0.2kts, -111.0°</name>
+<Placemark><name>2025-02-11 03:00Z0.2kts, 249.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.60245,-19.65122</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 04:00Z0.1kts, -77.0°</name>
+<Placemark><name>2025-02-11 04:00Z0.1kts, 283.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.60397,-19.65147</coordinates></Point>
@@ -377,27 +377,27 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53436,-19.63022</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 08:00Z0.0kts, -20.0°</name>
+<Placemark><name>2025-02-11 08:00Z0.0kts, 340.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53436,-19.63023</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 09:00Z0.0kts, -143.0°</name>
+<Placemark><name>2025-02-11 09:00Z0.0kts, 217.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53438,-19.63021</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 10:00Z0.8kts, -50.0°</name>
+<Placemark><name>2025-02-11 10:00Z0.8kts, 310.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.54666,-19.63747</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 11:00Z0.5kts, -141.0°</name>
+<Placemark><name>2025-02-11 11:00Z0.5kts, 219.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5527,-19.63213</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 12:00Z0.0kts, -3.0°</name>
+<Placemark><name>2025-02-11 12:00Z0.0kts, 357.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.55275,-19.6328</coordinates></Point>
@@ -412,7 +412,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54049,-19.63482</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 15:00Z0.7kts, -80.0°</name>
+<Placemark><name>2025-02-11 15:00Z0.7kts, 280.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.55247,-19.63629</coordinates></Point>
@@ -422,12 +422,12 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53822,-19.63479</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 17:00Z0.1kts, -85.0°</name>
+<Placemark><name>2025-02-11 17:00Z0.1kts, 275.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53977,-19.63489</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 18:00Z0.0kts, -21.0°</name>
+<Placemark><name>2025-02-11 18:00Z0.0kts, 339.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53977,-19.6349</coordinates></Point>
@@ -437,7 +437,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53976,-19.63489</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-11 20:00Z0.3kts, -128.0°</name>
+<Placemark><name>2025-02-11 20:00Z0.3kts, 232.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54461,-19.63225</coordinates></Point>
@@ -462,7 +462,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54092,-19.62292</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 01:00Z0.1kts, -16.0°</name>
+<Placemark><name>2025-02-12 01:00Z0.1kts, 344.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54169,-19.62488</coordinates></Point>
@@ -477,17 +477,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5409,-19.63259</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 04:00Z0.2kts, -0.0°</name>
+<Placemark><name>2025-02-12 04:00Z0.2kts, 360.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54092,-19.63604</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 05:00Z0.0kts, -4.0°</name>
+<Placemark><name>2025-02-12 05:00Z0.0kts, 356.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54098,-19.63675</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 06:00Z0.2kts, -46.0°</name>
+<Placemark><name>2025-02-12 06:00Z0.2kts, 314.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5438,-19.63865</coordinates></Point>
@@ -497,12 +497,12 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5438,-19.63865</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 08:00Z0.0kts, -154.0°</name>
+<Placemark><name>2025-02-12 08:00Z0.0kts, 206.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5438,-19.63864</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 09:00Z0.0kts, -36.0°</name>
+<Placemark><name>2025-02-12 09:00Z0.0kts, 324.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54381,-19.63865</coordinates></Point>
@@ -532,7 +532,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54253,-19.63539</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 15:00Z0.8kts, -94.0°</name>
+<Placemark><name>2025-02-12 15:00Z0.8kts, 266.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5566,-19.63477</coordinates></Point>
@@ -542,7 +542,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53968,-19.6348</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 17:00Z0.0kts, -92.0°</name>
+<Placemark><name>2025-02-12 17:00Z0.0kts, 268.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5397,-19.6348</coordinates></Point>
@@ -557,7 +557,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53968,-19.6348</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 20:00Z0.0kts, -138.0°</name>
+<Placemark><name>2025-02-12 20:00Z0.0kts, 222.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53969,-19.6348</coordinates></Point>
@@ -567,7 +567,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53969,-19.6348</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-12 22:00Z0.2kts, -57.0°</name>
+<Placemark><name>2025-02-12 22:00Z0.2kts, 303.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54271,-19.63617</coordinates></Point>
@@ -577,17 +577,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53954,-19.63486</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 00:00Z0.0kts, -51.0°</name>
+<Placemark><name>2025-02-13 00:00Z0.0kts, 309.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.53994,-19.63509</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 01:00Z0.1kts, -135.0°</name>
+<Placemark><name>2025-02-13 01:00Z0.1kts, 225.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54144,-19.63405</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 02:00Z0.4kts, -13.0°</name>
+<Placemark><name>2025-02-13 02:00Z0.4kts, 347.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.54363,-19.64095</coordinates></Point>
@@ -597,17 +597,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54081,-19.63474</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 04:00Z0.0kts, -11.0°</name>
+<Placemark><name>2025-02-13 04:00Z0.0kts, 349.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54081,-19.63476</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 05:00Z0.2kts, -157.0°</name>
+<Placemark><name>2025-02-13 05:00Z0.2kts, 203.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54237,-19.63215</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 06:00Z0.2kts, -21.0°</name>
+<Placemark><name>2025-02-13 06:00Z0.2kts, 339.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54359,-19.63438</coordinates></Point>
@@ -622,22 +622,22 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.54144,-19.6339</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 09:00Z0.0kts, -156.0°</name>
+<Placemark><name>2025-02-13 09:00Z0.0kts, 204.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.54146,-19.63387</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 10:00Z0.1kts, -88.0°</name>
+<Placemark><name>2025-02-13 10:00Z0.1kts, 272.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.54371,-19.63393</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 11:00Z0.3kts, -88.0°</name>
+<Placemark><name>2025-02-13 11:00Z0.3kts, 272.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.5489,-19.63407</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 20:00Z0.3kts, -88.0°</name>
+<Placemark><name>2025-02-13 20:00Z0.3kts, 272.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.5959,-19.63591</coordinates></Point>
@@ -647,42 +647,42 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.59437,-19.64489</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 22:00Z0.9kts, -60.0°</name>
+<Placemark><name>2025-02-13 22:00Z0.9kts, 300.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>57.60921,-19.65096</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-13 23:00Z1.8kts, -62.0°</name>
+<Placemark><name>2025-02-13 23:00Z1.8kts, 298.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.63902,-19.66199</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-14 00:00Z9.2kts, -68.0°</name>
+<Placemark><name>2025-02-14 00:00Z9.2kts, 292.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.79391,-19.70944</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-14 01:00Z9.1kts, -47.0°</name>
+<Placemark><name>2025-02-14 01:00Z9.1kts, 313.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>57.93122,-19.78924</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-14 02:00Z10.1kts, -24.0°</name>
+<Placemark><name>2025-02-14 02:00Z10.1kts, 336.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>58.04704,-19.9171</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-14 03:00Z9.7kts, -19.0°</name>
+<Placemark><name>2025-02-14 03:00Z9.7kts, 341.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>58.15788,-20.04113</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-14 04:00Z9.5kts, -13.0°</name>
+<Placemark><name>2025-02-14 04:00Z9.5kts, 347.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>58.26667,-20.16171</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-14 05:00Z10.5kts, -6.0°</name>
+<Placemark><name>2025-02-14 05:00Z10.5kts, 354.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>58.38662,-20.29537</coordinates></Point>
@@ -832,392 +832,392 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.31787,-23.47653</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 11:00Z7.7kts, -1.0°</name>
+<Placemark><name>2025-02-15 11:00Z7.7kts, 359.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.40646,-23.57662</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 12:00Z7.9kts, -6.0°</name>
+<Placemark><name>2025-02-15 12:00Z7.9kts, 354.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.49858,-23.67808</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 13:00Z7.9kts, -11.0°</name>
+<Placemark><name>2025-02-15 13:00Z7.9kts, 349.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.59201,-23.7787</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 14:00Z7.9kts, -17.0°</name>
+<Placemark><name>2025-02-15 14:00Z7.9kts, 343.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.68928,-23.87477</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 15:00Z7.3kts, -22.0°</name>
+<Placemark><name>2025-02-15 15:00Z7.3kts, 338.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.78267,-23.96158</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 16:00Z8.8kts, -24.0°</name>
+<Placemark><name>2025-02-15 16:00Z8.8kts, 336.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.88624,-24.07306</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 17:00Z8.4kts, -28.0°</name>
+<Placemark><name>2025-02-15 17:00Z8.4kts, 332.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>61.98405,-24.18002</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 18:00Z8.3kts, -30.0°</name>
+<Placemark><name>2025-02-15 18:00Z8.3kts, 330.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.08021,-24.28653</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 19:00Z8.2kts, -36.0°</name>
+<Placemark><name>2025-02-15 19:00Z8.2kts, 324.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.18305,-24.3862</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 20:00Z8.1kts, -38.0°</name>
+<Placemark><name>2025-02-15 20:00Z8.1kts, 322.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.28296,-24.48499</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 21:00Z7.9kts, -39.0°</name>
+<Placemark><name>2025-02-15 21:00Z7.9kts, 321.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.37865,-24.58436</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 22:00Z9.8kts, -40.0°</name>
+<Placemark><name>2025-02-15 22:00Z9.8kts, 320.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.49498,-24.70897</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-15 23:00Z7.9kts, -41.0°</name>
+<Placemark><name>2025-02-15 23:00Z7.9kts, 319.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.58958,-24.80919</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 00:00Z8.4kts, -44.0°</name>
+<Placemark><name>2025-02-16 00:00Z8.4kts, 316.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.69323,-24.91217</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 01:00Z8.4kts, -45.0°</name>
+<Placemark><name>2025-02-16 01:00Z8.4kts, 315.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.79791,-25.0144</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 02:00Z8.2kts, -45.0°</name>
+<Placemark><name>2025-02-16 02:00Z8.2kts, 315.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.89889,-25.11605</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 03:00Z8.0kts, -44.0°</name>
+<Placemark><name>2025-02-16 03:00Z8.0kts, 316.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>62.99585,-25.21617</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 04:00Z8.0kts, -45.0°</name>
+<Placemark><name>2025-02-16 04:00Z8.0kts, 315.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.09378,-25.315</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 05:00Z7.9kts, -46.0°</name>
+<Placemark><name>2025-02-16 05:00Z7.9kts, 314.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.19475,-25.41077</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 06:00Z8.2kts, -44.0°</name>
+<Placemark><name>2025-02-16 06:00Z8.2kts, 316.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.29627,-25.51113</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 07:00Z8.3kts, -44.0°</name>
+<Placemark><name>2025-02-16 07:00Z8.3kts, 316.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.40227,-25.61145</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 08:00Z8.4kts, -42.0°</name>
+<Placemark><name>2025-02-16 08:00Z8.4kts, 318.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.5093,-25.71402</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 09:00Z8.6kts, -37.0°</name>
+<Placemark><name>2025-02-16 09:00Z8.6kts, 323.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.613,-25.82196</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 10:00Z8.4kts, -34.0°</name>
+<Placemark><name>2025-02-16 10:00Z8.4kts, 326.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.71425,-25.92876</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 11:00Z8.6kts, -32.0°</name>
+<Placemark><name>2025-02-16 11:00Z8.6kts, 328.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.82018,-26.03539</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 12:00Z8.7kts, -27.0°</name>
+<Placemark><name>2025-02-16 12:00Z8.7kts, 333.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>63.92487,-26.14605</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 13:00Z8.6kts, -22.0°</name>
+<Placemark><name>2025-02-16 13:00Z8.6kts, 338.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>64.02719,-26.25692</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 14:00Z8.5kts, -27.0°</name>
+<Placemark><name>2025-02-16 14:00Z8.5kts, 333.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>64.15004,-26.3458</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 15:00Z9.0kts, -98.0°</name>
+<Placemark><name>2025-02-16 15:00Z9.0kts, 262.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>64.31818,-26.34227</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 16:00Z8.9kts, -95.0°</name>
+<Placemark><name>2025-02-16 16:00Z8.9kts, 265.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>64.48277,-26.34135</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 17:00Z8.9kts, -96.0°</name>
+<Placemark><name>2025-02-16 17:00Z8.9kts, 264.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>64.6479,-26.33936</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 18:00Z9.0kts, -97.0°</name>
+<Placemark><name>2025-02-16 18:00Z9.0kts, 263.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>64.81483,-26.33623</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 19:00Z8.7kts, -97.0°</name>
+<Placemark><name>2025-02-16 19:00Z8.7kts, 263.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>64.97731,-26.33326</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 20:00Z8.9kts, -95.0°</name>
+<Placemark><name>2025-02-16 20:00Z8.9kts, 265.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>65.14374,-26.33293</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 21:00Z7.4kts, -94.0°</name>
+<Placemark><name>2025-02-16 21:00Z7.4kts, 266.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>65.28114,-26.33261</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 22:00Z10.7kts, -91.0°</name>
+<Placemark><name>2025-02-16 22:00Z10.7kts, 269.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>65.48082,-26.3375</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-16 23:00Z8.9kts, -91.0°</name>
+<Placemark><name>2025-02-16 23:00Z8.9kts, 269.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>65.64651,-26.34128</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 00:00Z8.7kts, -90.0°</name>
+<Placemark><name>2025-02-17 00:00Z8.7kts, 270.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>65.80813,-26.34577</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 01:00Z8.6kts, -92.0°</name>
+<Placemark><name>2025-02-17 01:00Z8.6kts, 268.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>65.96897,-26.34825</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 02:00Z8.8kts, -98.0°</name>
+<Placemark><name>2025-02-17 02:00Z8.8kts, 262.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>66.13346,-26.34418</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 03:00Z8.9kts, -95.0°</name>
+<Placemark><name>2025-02-17 03:00Z8.9kts, 265.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>66.29857,-26.34366</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 04:00Z8.8kts, -89.0°</name>
+<Placemark><name>2025-02-17 04:00Z8.8kts, 271.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>66.46192,-26.34945</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 05:00Z8.6kts, -93.0°</name>
+<Placemark><name>2025-02-17 05:00Z8.6kts, 267.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>66.62215,-26.35114</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 06:00Z8.7kts, -94.0°</name>
+<Placemark><name>2025-02-17 06:00Z8.7kts, 266.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>66.78377,-26.35143</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 07:00Z8.8kts, -95.0°</name>
+<Placemark><name>2025-02-17 07:00Z8.8kts, 265.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>66.94749,-26.35082</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 08:00Z8.6kts, -103.0°</name>
+<Placemark><name>2025-02-17 08:00Z8.6kts, 257.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>67.10721,-26.34205</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 09:00Z7.7kts, -99.0°</name>
+<Placemark><name>2025-02-17 09:00Z7.7kts, 261.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>67.25064,-26.33704</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 10:00Z9.2kts, -102.0°</name>
+<Placemark><name>2025-02-17 10:00Z9.2kts, 258.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>67.42074,-26.32837</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 11:00Z8.2kts, -101.0°</name>
+<Placemark><name>2025-02-17 11:00Z8.2kts, 259.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>67.57263,-26.32157</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 12:00Z8.3kts, -98.0°</name>
+<Placemark><name>2025-02-17 12:00Z8.3kts, 262.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>67.72715,-26.31799</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 13:00Z8.3kts, -95.0°</name>
+<Placemark><name>2025-02-17 13:00Z8.3kts, 265.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>67.88169,-26.31675</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 14:00Z7.7kts, -97.0°</name>
+<Placemark><name>2025-02-17 14:00Z7.7kts, 263.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>68.02407,-26.31396</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 15:00Z8.3kts, -96.0°</name>
+<Placemark><name>2025-02-17 15:00Z8.3kts, 264.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>68.17854,-26.31235</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 16:00Z8.0kts, -93.0°</name>
+<Placemark><name>2025-02-17 16:00Z8.0kts, 267.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>68.32658,-26.31297</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 17:00Z8.2kts, -92.0°</name>
+<Placemark><name>2025-02-17 17:00Z8.2kts, 268.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>68.47991,-26.31476</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 18:00Z8.5kts, -87.0°</name>
+<Placemark><name>2025-02-17 18:00Z8.5kts, 273.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>68.63728,-26.32242</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 19:00Z8.1kts, -84.0°</name>
+<Placemark><name>2025-02-17 19:00Z8.1kts, 276.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>68.78835,-26.33178</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 20:00Z9.3kts, -87.0°</name>
+<Placemark><name>2025-02-17 20:00Z9.3kts, 273.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>68.96088,-26.34025</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 21:00Z8.4kts, -89.0°</name>
+<Placemark><name>2025-02-17 21:00Z8.4kts, 271.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>69.11619,-26.3454</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 22:00Z9.1kts, -89.0°</name>
+<Placemark><name>2025-02-17 22:00Z9.1kts, 271.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>69.28491,-26.35068</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-17 23:00Z9.1kts, -92.0°</name>
+<Placemark><name>2025-02-17 23:00Z9.1kts, 268.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>69.45347,-26.35369</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 00:00Z9.8kts, -93.0°</name>
+<Placemark><name>2025-02-18 00:00Z9.8kts, 267.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>69.63653,-26.3554</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 01:00Z9.6kts, -92.0°</name>
+<Placemark><name>2025-02-18 01:00Z9.6kts, 268.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>69.81489,-26.35829</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 02:00Z10.0kts, -92.0°</name>
+<Placemark><name>2025-02-18 02:00Z10.0kts, 268.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>70.00015,-26.36139</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 03:00Z10.2kts, -97.0°</name>
+<Placemark><name>2025-02-18 03:00Z10.2kts, 263.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>70.19019,-26.35914</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 04:00Z10.3kts, -100.0°</name>
+<Placemark><name>2025-02-18 04:00Z10.3kts, 260.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>70.38204,-26.35387</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 05:00Z8.5kts, -100.0°</name>
+<Placemark><name>2025-02-18 05:00Z8.5kts, 260.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>70.53926,-26.34803</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 06:00Z9.3kts, -81.0°</name>
+<Placemark><name>2025-02-18 06:00Z9.3kts, 279.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>70.71227,-26.36188</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 07:00Z7.5kts, -84.0°</name>
+<Placemark><name>2025-02-18 07:00Z7.5kts, 276.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>70.85172,-26.36994</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 08:00Z10.0kts, -110.0°</name>
+<Placemark><name>2025-02-18 08:00Z10.0kts, 250.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>71.03652,-26.3526</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 09:00Z10.0kts, -110.0°</name>
+<Placemark><name>2025-02-18 09:00Z10.0kts, 250.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>71.22182,-26.33408</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 10:00Z9.8kts, -99.0°</name>
+<Placemark><name>2025-02-18 10:00Z9.8kts, 261.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>71.40341,-26.32867</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 11:00Z8.8kts, -88.0°</name>
+<Placemark><name>2025-02-18 11:00Z8.8kts, 272.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>71.56776,-26.33496</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 12:00Z9.8kts, -62.0°</name>
+<Placemark><name>2025-02-18 12:00Z9.8kts, 298.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>71.74626,-26.37082</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 13:00Z10.2kts, -34.0°</name>
+<Placemark><name>2025-02-18 13:00Z10.2kts, 326.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>71.91943,-26.44165</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 14:00Z10.3kts, -26.0°</name>
+<Placemark><name>2025-02-18 14:00Z10.3kts, 334.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>72.0941,-26.51373</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 15:00Z10.2kts, -18.0°</name>
+<Placemark><name>2025-02-18 15:00Z10.2kts, 342.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>72.26863,-26.58224</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-18 16:00Z10.4kts, -8.0°</name>
+<Placemark><name>2025-02-18 16:00Z10.4kts, 352.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>72.44712,-26.64929</coordinates></Point>
@@ -1402,192 +1402,192 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>78.88203,-29.79295</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 05:00Z11.0kts, -5.0°</name>
+<Placemark><name>2025-02-20 05:00Z11.0kts, 355.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>79.06292,-29.88891</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 06:00Z10.5kts, -14.0°</name>
+<Placemark><name>2025-02-20 06:00Z10.5kts, 346.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>79.23648,-29.97954</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 07:00Z11.3kts, -24.0°</name>
+<Placemark><name>2025-02-20 07:00Z11.3kts, 336.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>79.42448,-30.07541</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 08:00Z11.1kts, -32.0°</name>
+<Placemark><name>2025-02-20 08:00Z11.1kts, 328.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>79.60985,-30.16648</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 09:00Z10.8kts, -35.0°</name>
+<Placemark><name>2025-02-20 09:00Z10.8kts, 325.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>79.78695,-30.26293</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 10:00Z10.1kts, -42.0°</name>
+<Placemark><name>2025-02-20 10:00Z10.1kts, 318.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>79.95504,-30.34711</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 11:00Z10.5kts, -44.0°</name>
+<Placemark><name>2025-02-20 11:00Z10.5kts, 316.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>80.12673,-30.43973</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 12:00Z10.3kts, -49.0°</name>
+<Placemark><name>2025-02-20 12:00Z10.3kts, 311.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>80.29751,-30.52808</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 13:00Z10.2kts, -53.0°</name>
+<Placemark><name>2025-02-20 13:00Z10.2kts, 307.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>80.46882,-30.61223</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 14:00Z10.7kts, -54.0°</name>
+<Placemark><name>2025-02-20 14:00Z10.7kts, 306.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>80.64697,-30.7035</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 15:00Z9.4kts, -56.0°</name>
+<Placemark><name>2025-02-20 15:00Z9.4kts, 304.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>80.80314,-30.78394</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 16:00Z8.4kts, -59.0°</name>
+<Placemark><name>2025-02-20 16:00Z8.4kts, 301.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>80.94534,-30.85253</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 17:00Z9.5kts, -58.0°</name>
+<Placemark><name>2025-02-20 17:00Z9.5kts, 302.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>81.10469,-30.93385</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 18:00Z10.4kts, -60.0°</name>
+<Placemark><name>2025-02-20 18:00Z10.4kts, 300.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>81.27935,-31.02164</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 19:00Z8.1kts, -63.0°</name>
+<Placemark><name>2025-02-20 19:00Z8.1kts, 297.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>81.41734,-31.086</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 20:00Z10.4kts, -63.0°</name>
+<Placemark><name>2025-02-20 20:00Z10.4kts, 297.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>81.59587,-31.16886</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 21:00Z9.1kts, -64.0°</name>
+<Placemark><name>2025-02-20 21:00Z9.1kts, 296.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>81.75192,-31.24145</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 22:00Z8.7kts, -62.0°</name>
+<Placemark><name>2025-02-20 22:00Z8.7kts, 298.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>81.89764,-31.31629</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-20 23:00Z10.1kts, -63.0°</name>
+<Placemark><name>2025-02-20 23:00Z10.1kts, 297.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>82.06633,-31.40251</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 00:00Z9.5kts, -63.0°</name>
+<Placemark><name>2025-02-21 00:00Z9.5kts, 297.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>82.22642,-31.48345</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 01:00Z9.8kts, -63.0°</name>
+<Placemark><name>2025-02-21 01:00Z9.8kts, 297.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>82.3892,-31.56842</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 02:00Z8.9kts, -63.0°</name>
+<Placemark><name>2025-02-21 02:00Z8.9kts, 297.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>82.53849,-31.64485</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 03:00Z9.5kts, -62.0°</name>
+<Placemark><name>2025-02-21 03:00Z9.5kts, 298.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>82.69575,-31.72846</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 04:00Z9.2kts, -64.0°</name>
+<Placemark><name>2025-02-21 04:00Z9.2kts, 296.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>82.853,-31.80352</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 05:00Z8.3kts, -65.0°</name>
+<Placemark><name>2025-02-21 05:00Z8.3kts, 295.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>82.9963,-31.86767</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 06:00Z10.0kts, -62.0°</name>
+<Placemark><name>2025-02-21 06:00Z10.0kts, 298.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>83.16749,-31.95106</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 07:00Z9.1kts, -60.0°</name>
+<Placemark><name>2025-02-21 07:00Z9.1kts, 300.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>83.32105,-32.03042</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 08:00Z9.1kts, -61.0°</name>
+<Placemark><name>2025-02-21 08:00Z9.1kts, 299.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>83.47786,-32.10379</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 09:00Z9.3kts, -59.0°</name>
+<Placemark><name>2025-02-21 09:00Z9.3kts, 301.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>83.6373,-32.17848</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 10:00Z9.3kts, -56.0°</name>
+<Placemark><name>2025-02-21 10:00Z9.3kts, 304.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>83.79662,-32.25589</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 11:00Z9.8kts, -53.0°</name>
+<Placemark><name>2025-02-21 11:00Z9.8kts, 307.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>83.96455,-32.33823</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 12:00Z9.3kts, -51.0°</name>
+<Placemark><name>2025-02-21 12:00Z9.3kts, 309.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>84.12476,-32.4144</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 13:00Z10.2kts, -48.0°</name>
+<Placemark><name>2025-02-21 13:00Z10.2kts, 312.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>84.30175,-32.49626</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 14:00Z9.7kts, -40.0°</name>
+<Placemark><name>2025-02-21 14:00Z9.7kts, 320.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>84.46677,-32.57921</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 15:00Z9.5kts, -31.0°</name>
+<Placemark><name>2025-02-21 15:00Z9.5kts, 329.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>84.62453,-32.66657</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 16:00Z9.4kts, -24.0°</name>
+<Placemark><name>2025-02-21 16:00Z9.4kts, 336.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>84.78042,-32.75121</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 17:00Z9.5kts, -18.0°</name>
+<Placemark><name>2025-02-21 17:00Z9.5kts, 342.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>84.94219,-32.83255</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-21 18:00Z9.2kts, -9.0°</name>
+<Placemark><name>2025-02-21 18:00Z9.2kts, 351.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>85.10079,-32.91024</coordinates></Point>
@@ -1832,17 +1832,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.67314,-34.62865</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-23 19:00Z0.0kts, -34.0°</name>
+<Placemark><name>2025-02-23 19:00Z0.0kts, 326.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.6731,-34.6287</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-23 20:00Z0.3kts, -153.0°</name>
+<Placemark><name>2025-02-23 20:00Z0.3kts, 207.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.67087,-34.62438</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-23 21:00Z0.3kts, -129.0°</name>
+<Placemark><name>2025-02-23 21:00Z0.3kts, 231.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.66669,-34.62099</coordinates></Point>
@@ -1857,12 +1857,12 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.6721,-34.61291</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 00:00Z0.0kts, -85.0°</name>
+<Placemark><name>2025-02-24 00:00Z0.0kts, 275.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.67188,-34.61293</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 01:00Z0.5kts, -20.0°</name>
+<Placemark><name>2025-02-24 01:00Z0.5kts, 340.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.66873,-34.62154</coordinates></Point>
@@ -1872,7 +1872,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.66894,-34.6203</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 03:00Z0.0kts, -57.0°</name>
+<Placemark><name>2025-02-24 03:00Z0.0kts, 303.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.66893,-34.62031</coordinates></Point>
@@ -1882,17 +1882,17 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.66939,-34.61995</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 05:00Z3.5kts, -126.0°</name>
+<Placemark><name>2025-02-24 05:00Z3.5kts, 234.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.61615,-34.58188</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 06:00Z9.2kts, -102.0°</name>
+<Placemark><name>2025-02-24 06:00Z9.2kts, 258.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.43606,-34.54271</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 07:00Z8.3kts, -103.0°</name>
+<Placemark><name>2025-02-24 07:00Z8.3kts, 257.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.27492,-34.50566</coordinates></Point>
@@ -1907,7 +1907,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.30988,-34.50626</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 10:00Z0.3kts, -145.0°</name>
+<Placemark><name>2025-02-24 10:00Z0.3kts, 215.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.30706,-34.50219</coordinates></Point>
@@ -1947,52 +1947,52 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.98883,-34.58252</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 18:00Z2.6kts, -93.0°</name>
+<Placemark><name>2025-02-24 18:00Z2.6kts, 267.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.93571,-34.57964</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 19:00Z10.5kts, -93.0°</name>
+<Placemark><name>2025-02-24 19:00Z10.5kts, 267.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.72286,-34.56729</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 20:00Z9.8kts, -92.0°</name>
+<Placemark><name>2025-02-24 20:00Z9.8kts, 268.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.52568,-34.55919</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 21:00Z8.6kts, -91.0°</name>
+<Placemark><name>2025-02-24 21:00Z8.6kts, 269.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.35175,-34.55497</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 22:00Z10.1kts, -92.0°</name>
+<Placemark><name>2025-02-24 22:00Z10.1kts, 268.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.14845,-34.54895</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-24 23:00Z7.9kts, -98.0°</name>
+<Placemark><name>2025-02-24 23:00Z7.9kts, 262.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.99076,-34.52601</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 00:00Z6.8kts, -121.0°</name>
+<Placemark><name>2025-02-25 00:00Z6.8kts, 239.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.87937,-34.45956</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 01:00Z2.4kts, -49.0°</name>
+<Placemark><name>2025-02-25 01:00Z2.4kts, 311.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.84606,-34.48848</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 02:00Z1.8kts, -55.0°</name>
+<Placemark><name>2025-02-25 02:00Z1.8kts, 305.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.81759,-34.50802</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 03:00Z2.9kts, -64.0°</name>
+<Placemark><name>2025-02-25 03:00Z2.9kts, 296.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.76774,-34.53214</coordinates></Point>
@@ -2017,12 +2017,12 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.42483,-34.64706</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 08:00Z0.1kts, -120.0°</name>
+<Placemark><name>2025-02-25 08:00Z0.1kts, 240.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.42296,-34.64599</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 09:00Z2.7kts, -43.0°</name>
+<Placemark><name>2025-02-25 09:00Z2.7kts, 317.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.38935,-34.68148</coordinates></Point>
@@ -2042,7 +2042,7 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.77817,-34.8715</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 13:00Z1.6kts, -43.0°</name>
+<Placemark><name>2025-02-25 13:00Z1.6kts, 317.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.75813,-34.89185</coordinates></Point>
@@ -2052,37 +2052,37 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.75866,-34.89136</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 15:00Z0.1kts, -111.0°</name>
+<Placemark><name>2025-02-25 15:00Z0.1kts, 249.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.75731,-34.89088</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 16:00Z2.1kts, -103.0°</name>
+<Placemark><name>2025-02-25 16:00Z2.1kts, 257.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.71651,-34.88203</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 17:00Z10.7kts, -97.0°</name>
+<Placemark><name>2025-02-25 17:00Z10.7kts, 263.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.50119,-34.86438</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 18:00Z9.5kts, -84.0°</name>
+<Placemark><name>2025-02-25 18:00Z9.5kts, 276.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.31084,-34.88885</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 19:00Z9.5kts, -88.0°</name>
+<Placemark><name>2025-02-25 19:00Z9.5kts, 272.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.11734,-34.89988</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 20:00Z9.5kts, -86.0°</name>
+<Placemark><name>2025-02-25 20:00Z9.5kts, 274.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.9258,-34.91902</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-25 21:00Z4.2kts, -87.0°</name>
+<Placemark><name>2025-02-25 21:00Z4.2kts, 273.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.84036,-34.92459</coordinates></Point>
@@ -2102,12 +2102,12 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.91289,-34.82309</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 01:00Z1.4kts, -171.0°</name>
+<Placemark><name>2025-02-26 01:00Z1.4kts, 189.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.90897,-34.79925</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 02:00Z2.0kts, -168.0°</name>
+<Placemark><name>2025-02-26 02:00Z2.0kts, 192.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.90196,-34.76709</coordinates></Point>
@@ -2117,27 +2117,27 @@
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.90529,-34.76455</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 04:00Z1.3kts, -152.0°</name>
+<Placemark><name>2025-02-26 04:00Z1.3kts, 208.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.89422,-34.7441</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 05:00Z3.5kts, -112.0°</name>
+<Placemark><name>2025-02-26 05:00Z3.5kts, 248.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.83052,-34.71933</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 06:00Z0.2kts, -105.0°</name>
+<Placemark><name>2025-02-26 06:00Z0.2kts, 255.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.82669,-34.71831</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 07:00Z1.4kts, -176.0°</name>
+<Placemark><name>2025-02-26 07:00Z1.4kts, 184.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.82516,-34.69481</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 08:00Z0.2kts, -36.0°</name>
+<Placemark><name>2025-02-26 08:00Z0.2kts, 324.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.82344,-34.69716</coordinates></Point>
@@ -2172,32 +2172,32 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.64819,-34.90983</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 15:00Z2.9kts, -47.0°</name>
+<Placemark><name>2025-02-26 15:00Z2.9kts, 313.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.60717,-34.9451</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 16:00Z3.2kts, -113.0°</name>
+<Placemark><name>2025-02-26 16:00Z3.2kts, 247.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>93.54877,-34.92218</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 17:00Z10.0kts, -132.0°</name>
+<Placemark><name>2025-02-26 17:00Z10.0kts, 228.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.40809,-34.80201</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 18:00Z9.7kts, -130.0°</name>
+<Placemark><name>2025-02-26 18:00Z9.7kts, 230.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.27005,-34.6879</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 19:00Z10.3kts, -116.0°</name>
+<Placemark><name>2025-02-26 19:00Z10.3kts, 244.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.09012,-34.60234</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-26 20:00Z8.6kts, -105.0°</name>
+<Placemark><name>2025-02-26 20:00Z8.6kts, 255.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.92505,-34.55847</coordinates></Point>
@@ -2252,42 +2252,42 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.58908,-35.08267</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 12:00Z2.2kts, -62.0°</name>
+<Placemark><name>2025-02-27 12:00Z2.2kts, 298.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.55021,-35.1008</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 13:00Z4.6kts, -136.0°</name>
+<Placemark><name>2025-02-27 13:00Z4.6kts, 224.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.48821,-35.04423</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 14:00Z10.0kts, -142.0°</name>
+<Placemark><name>2025-02-27 14:00Z10.0kts, 218.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.374,-34.90634</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 15:00Z9.9kts, -141.0°</name>
+<Placemark><name>2025-02-27 15:00Z9.9kts, 219.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.26059,-34.77015</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 16:00Z9.8kts, -130.0°</name>
+<Placemark><name>2025-02-27 16:00Z9.8kts, 230.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>93.12047,-34.65488</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 17:00Z9.2kts, -112.0°</name>
+<Placemark><name>2025-02-27 17:00Z9.2kts, 248.0°</name>
 
 <styleUrl>#1</styleUrl>
 <Point><coordinates>92.95349,-34.58734</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 18:00Z9.1kts, -105.0°</name>
+<Placemark><name>2025-02-27 18:00Z9.1kts, 255.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.77809,-34.54073</coordinates></Point>
 </Placemark>
-<Placemark><name>2025-02-27 19:00Z1.1kts, -122.0°</name>
+<Placemark><name>2025-02-27 19:00Z1.1kts, 238.0°</name>
 
 <styleUrl>#0</styleUrl>
 <Point><coordinates>92.75996,-34.52927</coordinates></Point>
