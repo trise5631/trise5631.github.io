@@ -9,12 +9,12 @@
 <Style id="0"><LabelStyle><scale>0</scale></LabelStyle><IconStyle><color>ff00ff00</color><scale>0.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon></IconStyle>
 </Style>
 <name>ARMADA 78 06 - MH370-CAPTION.net</name>
-<description>2025-03-06 09:00Z / 2025-03-06 17:00Z</description>
+<description>2025-03-06 09:00Z / 2025-03-06 18:00Z</description>
 <Placemark><name>Trajectory</name>
 <styleUrl>#0</styleUrl>
 <LineString>
 <coordinates>
-115.69195,-32.08153 115.58842,-31.93626 115.38965,-31.91095 115.20005,-31.95498 115.01297,-32.00164 114.84637,-32.02359 114.65518,-32.08155 114.48188,-32.12313 114.30071,-32.16762
+115.69195,-32.08153 115.58842,-31.93626 115.38965,-31.91095 115.20005,-31.95498 115.01297,-32.00164 114.84637,-32.02359 114.65518,-32.08155 114.48188,-32.12313 114.30071,-32.16762 114.10893,-32.2131
 </coordinates>
 </LineString>
 </Placemark>
@@ -53,6 +53,10 @@
 <Placemark><name>2025-03-06 17:00Z 9.6kts, 254.0°</name>
 <styleUrl>#1</styleUrl>
 <Point><coordinates>114.30071,-32.16762</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-03-06 18:00Z 10.1kts, 254.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>114.10893,-32.2131</coordinates></Point>
 </Placemark>
 <ScreenOverlay>
 <name>Latest data here:https://www.mh370-caption.net/index.php/armada-tracking/</name>
