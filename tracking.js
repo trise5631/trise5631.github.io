@@ -1,1 +1,1 @@
-parse({"vessels": [], "label": "", "txt": "", "startT": 1739005200, "colors": {}, "phases": [["Phase 2", "phase2.js", 1],["Phase 1", "phase1.js", 0]], "data": {}, "currTime": ""})
+parse({"vessels": [], "label": "", "txt": "", "startT": 1739005200, "colors": {}, "phases": [["Phase 1", "phase1.js", 0],["Phase 2", "phase2.js", 1]], "data": {}, "currTime": ""})
