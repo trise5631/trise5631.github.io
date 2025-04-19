@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+
+<Style id="1"><LineStyle>
+<color>ff00ffff</color>
+</LineStyle><LabelStyle><scale>0</scale></LabelStyle><IconStyle><color>ff0088ff</color><scale>0.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon></IconStyle>
+</Style>
+<Style id="0"><LabelStyle><scale>0</scale></LabelStyle><IconStyle><color>ff00ff00</color><scale>0.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon></IconStyle>
+</Style>
+<name>TAN SUO YI HAO - MH370-CAPTION.net</name>
+<description>2025-04-03 20:00Z / 2025-04-19 12:00Z</description>
+<Placemark><name>Trajectory</name>
+<styleUrl>#0</styleUrl>
+<LineString>
+<coordinates>
+111.58771,-38.91422 111.35325,-38.95147 111.11369,-38.98551 110.89516,-38.99073 110.71608,-38.917 110.5622,-38.82068 110.4104,-38.73484 110.24839,-38.64727 110.07577,-38.5599 109.91142,-38.47875 109.74356,-38.39728 109.57042,-38.31473 109.39674,-38.23119 109.22756,-38.14806 109.06279,-38.07163 108.89288,-37.98824 108.72913,-37.9106 108.56491,-37.83822 108.40486,-37.76114 108.25357,-37.69137 108.09331,-37.61619 107.94358,-37.54459 107.79694,-37.47548 107.64458,-37.40298 107.49311,-37.33141 107.33388,-37.25708 107.1795,-37.18557 107.02771,-37.11386 106.87531,-37.03773 106.72292,-36.96468 106.56498,-36.89202 106.41023,-36.8181 106.26106,-36.74462 106.12831,-36.6834 105.98775,-36.61556 105.85211,-36.54968 105.70191,-36.48116 105.58318,-36.42129 105.45175,-36.35692 105.315,-36.29486 105.17245,-36.22622 105.03484,-36.159 104.89567,-36.09341 104.75185,-36.0249 104.61298,-35.95826 104.48289,-35.89483 104.34353,-35.82752 104.20494,-35.75986 104.06723,-35.69363 103.92938,-35.6282 103.89145,-35.60715 103.90176,-35.61458 103.90152,-35.61979 103.89525,-35.61643 103.89295,-35.61621 103.90451,-35.61535 103.90492,-35.62412 103.90679,-35.62821 103.89872,-35.63773 103.89291,-35.6409 103.88889,-35.64262 103.88908,-35.65019 103.78065,-35.58003 103.57328,-35.43385 103.46176,-35.35284 103.4443,-35.34175 103.432,-35.32963 103.41945,-35.319 103.31176,-35.23957 103.10437,-35.1073 102.9049,-34.97973 102.70148,-34.84988 102.50335,-34.72286 102.30875,-34.59958 102.26139,-34.57111 102.29043,-34.58708 102.28917,-34.58337 102.29168,-34.58362 102.28915,-34.58247 102.28948,-34.57265 102.29422,-34.56992 102.29616,-34.5694 102.30397,-34.56851 102.31384,-34.56761 102.31562,-34.56381 102.31974,-34.56877 102.32522,-34.56881 102.32514,-34.56884 102.32515,-34.56881 102.32514,-34.56878 102.32436,-34.56914 102.20182,-34.45735 102.07793,-34.33183 101.9711,-34.2033 101.86469,-34.07414 101.72893,-33.91193 101.5852,-33.73698 101.44011,-33.56118 101.31898,-33.41365 101.32549,-33.42433 101.32482,-33.42546 101.32473,-33.42289 101.32581,-33.42211 101.31662,-33.41959 101.3123,-33.41587 101.31386,-33.40491 101.31235,-33.40091 101.30874,-33.39414 101.31101,-33.39322 101.31151,-33.3935 101.32327,-33.42022 101.32286,-33.41944 101.32287,-33.41943 101.32287,-33.41943 101.32719,-33.42136 101.33387,-33.42331 101.34135,-33.42519 101.34828,-33.42675 101.35652,-33.4285 101.3663,-33.43228 101.37808,-33.43522 101.39147,-33.43566 101.40664,-33.43871 101.37557,-33.43107 101.31687,-33.41796 101.32185,-33.41865 101.32251,-33.41983 101.32394,-33.41932 101.33284,-33.41697 101.34212,-33.40902 101.40829,-33.3282 101.51031,-33.21154 101.5748,-33.10519 101.59482,-33.01722 101.6107,-32.99194 101.62766,-32.97654 101.64678,-32.95783 101.6643,-32.94015 101.68161,-32.9239 101.69727,-32.91021 101.71154,-32.89774 101.7275,-32.88655 101.73982,-32.87364 101.75178,-32.85915 101.76281,-32.84507 101.6473,-32.99864 101.51193,-33.17545 101.3776,-33.34885 101.31829,-33.42362 101.32287,-33.41902 101.32739,-33.41225 101.3429,-33.39415 101.34734,-33.36828 101.34785,-33.34047 101.35134,-33.31298 101.35622,-33.28408 101.36535,-33.25203 101.37246,-33.21747 101.37829,-33.18437 101.38951,-33.17135 101.39813,-33.1601 101.40896,-33.15018 101.42074,-33.14223 101.43046,-33.13361 101.43936,-33.12629 101.44728,-33.11696 101.45516,-33.10889 101.4629,-33.10023 101.46961,-33.09174 101.47854,-33.08514 101.48547,-33.07837 101.49253,-33.07046 101.50206,-33.06074 101.51121,-33.05161 101.51964,-33.0406 101.45962,-33.02157 101.39634,-33.00582 101.33723,-32.99306 101.27489,-32.98227 101.20843,-32.98005 101.16499,-32.97926 101.12347,-32.98126 101.08231,-32.98542 101.03897,-32.98687 100.99074,-32.98521 100.9409,-32.98218 100.88405,-32.97879 100.81579,-32.97642 100.75201,-32.97606 100.68655,-32.97582 100.61709,-32.97698 100.56876,-32.97968 100.51529,-32.9825 100.46427,-32.98541 100.41383,-32.9883 100.36468,-32.99271 100.29173,-32.99641 100.14594,-32.986 99.91233,-32.96406 99.65267,-32.94117 99.39799,-32.92216 99.17249,-32.90267 98.8853,-32.86882 98.63505,-32.84845 98.37677,-32.83344 98.12071,-32.82386 97.86377,-32.81423 97.61299,-32.80318 97.35775,-32.75469 97.17291,-32.68866 97.07667,-32.56351 96.95264,-32.50902 96.77764,-32.52952 96.55491,-32.59518 96.32653,-32.66595 96.09745,-32.73191 95.86494,-32.78931 95.62713,-32.84479 95.46674,-32.8781 95.46364,-32.87788 95.45943,-32.8772 95.46276,-32.87534 95.45642,-32.87546 95.44299,-32.88157 95.44107,-32.88376 95.42875,-32.8858 95.41699,-32.88887 95.41084,-32.88462 95.40954,-32.88692 95.57291,-32.80114 95.78489,-32.69342 95.99005,-32.59496 96.13849,-32.52214 96.3057,-32.43546 96.40755,-32.38023 96.40822,-32.37715 96.40979,-32.37593 96.41332,-32.37295 96.41356,-32.36442 96.41076,-32.35812 96.40652,-32.35467 96.40088,-32.3506 96.39753,-32.34439 96.40231,-32.34346 96.47857,-32.37875 96.65941,-32.46145 96.83335,-32.54333 96.99503,-32.62419 97.14399,-32.7016 97.17134,-32.71984 97.16764,-32.72262 97.1698,-32.72208 97.17795,-32.71562 97.18977,-32.70818 97.18836,-32.698 97.19097,-32.69543 97.19462,-32.68787 97.19384,-32.68559 97.19324,-32.68934 97.19049,-32.69247 97.19739,-32.69799 97.20414,-32.70074 97.21005,-32.70169 97.21545,-32.70173 97.22182,-32.70031 97.22644,-32.69966 97.23121,-32.69687 97.21072,-32.70629 97.17341,-32.71862 97.17401,-32.71928 97.1739,-32.71911 97.1739,-32.71902 97.17369,-32.71903 97.17552,-32.71915 97.17552,-32.71915 97.17552,-32.71915 97.17021,-32.71362 97.14877,-32.70184 97.20122,-32.67794 97.33835,-32.6456 97.47144,-32.60671 97.5949,-32.56944 97.72709,-32.53094 97.8653,-32.49077 98.01431,-32.44721 98.1703,-32.42626 98.32509,-32.44423 98.48497,-32.46729 98.65417,-32.49269 98.81223,-32.51521 98.97967,-32.53696 99.12931,-32.55971 99.28201,-32.59924 99.44103,-32.63815 99.60302,-32.68016 99.74934,-32.72154 99.87954,-32.77443 100.02865,-32.78731 100.17141,-32.83059 100.23022,-32.82741 100.2392,-32.70518 100.25369,-32.58096 100.23061,-32.48988 100.21139,-32.40429 100.19781,-32.31779 100.12943,-32.26699 99.97253,-32.28189 99.80661,-32.30259 99.64265,-32.32087 99.48141,-32.33682 99.3182,-32.35793 99.15055,-32.38423 98.98171,-32.41025 98.80948,-32.43549 98.63817,-32.45442 98.44771,-32.48187 98.29179,-32.45839 98.24813,-32.46145 98.24513,-32.46182 98.24139,-32.46095 98.24918,-32.45654 98.24728,-32.44889 98.24887,-32.44113 98.25283,-32.43074 98.25525,-32.42326 98.25644,-32.42373 98.25884,-32.41685 98.26238,-32.42801 98.32713,-32.43217 98.39851,-32.44402 98.48796,-32.45675 98.56059,-32.46633 98.6333,-32.47391 98.70725,-32.48669 98.77365,-32.50007 98.83698,-32.51335 98.90541,-32.52585 98.97558,-32.53528 99.04187,-32.54102 99.08301,-32.54675 99.07902,-32.54569 99.07933,-32.5456 99.08115,-32.54061 99.07881,-32.53503 99.07674,-32.52794 99.07871,-32.52123 99.08222,-32.51099 99.08183,-32.50366 99.07964,-32.50102 99.11866,-32.50891 99.36353,-32.51236 99.58893,-32.59097 99.82157,-32.68297 100.03419,-32.7823 100.1717,-32.85611 100.1711,-32.85986 100.17285,-32.85459 100.17142,-32.856 100.17867,-32.8517 100.18114,-32.84285 100.18293,-32.83488 100.18442,-32.8293 100.19352,-32.81923 100.19118,-32.81592 100.19373,-32.8169 100.18594,-32.71439 100.20381,-32.48581 100.22073,-32.27257 100.23836,-32.04509 100.25569,-31.82189 100.2734,-31.59658 100.29259,-31.3769 100.31101,-31.15993 100.32886,-30.95077 100.34299,-30.73155 100.36007,-30.51631 100.37846,-30.30609
+</coordinates>
+</LineString>
+</Placemark>
+<Placemark><name>2025-04-03 20:00Z -kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>111.58771,-38.91422</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-03 21:00Z -kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>111.35325,-38.95147</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-03 22:00Z 11.4kts, 260.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>111.11369,-38.98551</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-03 23:00Z 10.2kts, 268.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>110.89516,-38.99073</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 00:00Z 9.5kts, 298.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>110.71608,-38.917</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 01:00Z 9.2kts, 309.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>110.5622,-38.82068</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 02:00Z 8.8kts, 306.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>110.4104,-38.73484</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 03:00Z 9.2kts, 305.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>110.24839,-38.64727</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 04:00Z 9.6kts, 303.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>110.07577,-38.5599</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 05:00Z 9.1kts, 302.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>109.91142,-38.47875</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 06:00Z 9.3kts, 302.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>109.74356,-38.39728</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 07:00Z 9.5kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>109.57042,-38.31473</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 08:00Z 9.6kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>109.39674,-38.23119</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 09:00Z 9.4kts, 302.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>109.22756,-38.14806</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 10:00Z 9.0kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>109.06279,-38.07163</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 11:00Z 9.5kts, 302.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>108.89288,-37.98824</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 12:00Z 9.0kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>108.72913,-37.9106</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 13:00Z 8.9kts, 299.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>108.56491,-37.83822</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 14:00Z 8.9kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>108.40486,-37.76114</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 15:00Z 8.3kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>108.25357,-37.69137</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 16:00Z 8.9kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>108.09331,-37.61619</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 17:00Z 8.3kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>107.94358,-37.54459</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 18:00Z 8.1kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>107.79694,-37.47548</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 19:00Z 8.5kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>107.64458,-37.40298</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 20:00Z 8.4kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>107.49311,-37.33141</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 21:00Z 8.8kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>107.33388,-37.25708</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 22:00Z 8.5kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>107.1795,-37.18557</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-04 23:00Z 8.4kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>107.02771,-37.11386</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 00:00Z 8.6kts, 302.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>106.87531,-37.03773</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 01:00Z 8.5kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>106.72292,-36.96468</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 02:00Z 8.7kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>106.56498,-36.89202</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 03:00Z 8.7kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>106.41023,-36.8181</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 04:00Z 8.4kts, 302.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>106.26106,-36.74462</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 05:00Z 7.4kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>106.12831,-36.6834</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 06:00Z 7.9kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.98775,-36.61556</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 07:00Z 7.6kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.85211,-36.54968</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 08:00Z 8.3kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.70191,-36.48116</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 09:00Z 6.8kts, 302.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.58318,-36.42129</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 10:00Z 7.4kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.45175,-36.35692</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 11:00Z 7.6kts, 299.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.315,-36.29486</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 12:00Z 8.0kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.17245,-36.22622</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 13:00Z 7.8kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>105.03484,-36.159</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 14:00Z 7.8kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>104.89567,-36.09341</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 15:00Z 8.1kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>104.75185,-36.0249</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 16:00Z 7.8kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>104.61298,-35.95826</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 17:00Z 7.4kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>104.48289,-35.89483</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 18:00Z 7.9kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>104.34353,-35.82752</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 19:00Z 7.9kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>104.20494,-35.75986</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 20:00Z 7.8kts, 301.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>104.06723,-35.69363</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 21:00Z 7.8kts, 300.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.92938,-35.6282</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 22:00Z 2.2kts, 304.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.89145,-35.60715</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-05 23:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.90176,-35.61458</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 00:00Z 0.3kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.90152,-35.61979</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 01:00Z 0.4kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.89525,-35.61643</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 02:00Z 0.1kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.89295,-35.61621</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 03:00Z 0.6kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.90451,-35.61535</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 04:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.90492,-35.62412</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 05:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.90679,-35.62821</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 06:00Z 0.7kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.89872,-35.63773</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 07:00Z 0.3kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.89291,-35.6409</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 08:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.88889,-35.64262</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 09:00Z 0.5kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.88908,-35.65019</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 10:00Z 6.8kts, 308.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.78065,-35.58003</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 11:00Z 13.4kts, 311.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.57328,-35.43385</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 12:00Z 7.3kts, 312.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.46176,-35.35284</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 13:00Z 1.1kts, 308.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.4443,-35.34175</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 14:00Z 0.9kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.432,-35.32963</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 15:00Z 0.9kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>103.41945,-35.319</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 16:00Z 7.1kts, 312.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.31176,-35.23957</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 17:00Z 12.9kts, 308.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>103.10437,-35.1073</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 18:00Z 12.4kts, 308.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.9049,-34.97973</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 19:00Z 12.7kts, 308.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.70148,-34.84988</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 20:00Z 12.4kts, 308.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.50335,-34.72286</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 21:00Z 12.1kts, 308.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.30875,-34.59958</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 22:00Z 2.9kts, 306.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.26139,-34.57111</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-06 23:00Z 1.7kts, 124.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.29043,-34.58708</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 00:00Z 0.2kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.28917,-34.58337</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 01:00Z 0.1kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.29168,-34.58362</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 02:00Z 0.1kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.28915,-34.58247</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 03:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.28948,-34.57265</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 04:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.29422,-34.56992</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 05:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.29616,-34.5694</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 06:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.30397,-34.56851</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 07:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.31384,-34.56761</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 08:00Z 0.2kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.31562,-34.56381</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 09:00Z 0.4kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.31974,-34.56877</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 10:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.32522,-34.56881</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 11:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.32514,-34.56884</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 12:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.32515,-34.56881</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 13:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.32514,-34.56878</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 14:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>102.32436,-34.56914</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 15:00Z 9.0kts, 318.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.20182,-34.45735</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 16:00Z 9.7kts, 321.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>102.07793,-34.33183</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 17:00Z 9.4kts, 325.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.9711,-34.2033</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 18:00Z 9.4kts, 326.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.86469,-34.07414</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 19:00Z 11.9kts, 325.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.72893,-33.91193</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 20:00Z 12.7kts, 326.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.5852,-33.73698</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 21:00Z 12.8kts, 325.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.44011,-33.56118</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 22:00Z 10.7kts, 326.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.31898,-33.41365</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-07 23:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32549,-33.42433</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 00:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32482,-33.42546</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 01:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32473,-33.42289</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 02:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32581,-33.42211</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 03:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.31662,-33.41959</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 04:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.3123,-33.41587</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 05:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.31386,-33.40491</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 06:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.31235,-33.40091</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 07:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.30874,-33.39414</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 08:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.31101,-33.39322</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 09:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.31151,-33.3935</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 10:00Z 1.7kts, 160.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32327,-33.42022</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 11:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32286,-33.41944</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 12:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32287,-33.41943</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 13:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32287,-33.41943</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 14:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32719,-33.42136</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 15:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.33387,-33.42331</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 16:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.34135,-33.42519</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 17:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.34828,-33.42675</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 18:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.35652,-33.4285</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 19:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.3663,-33.43228</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 20:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.37808,-33.43522</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 21:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.39147,-33.43566</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 22:00Z 0.8kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.40664,-33.43871</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-08 23:00Z 1.6kts, 286.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.37557,-33.43107</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 00:00Z 3.0kts, 285.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.31687,-33.41796</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 01:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32185,-33.41865</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 02:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32251,-33.41983</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 03:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32394,-33.41932</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 04:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.33284,-33.41697</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 05:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.34212,-33.40902</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 06:00Z 5.9kts, 34.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.40829,-33.3282</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 07:00Z 8.7kts, 36.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.51031,-33.21154</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 08:00Z 7.2kts, 27.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.5748,-33.10519</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 09:00Z 5.4kts, 11.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.59482,-33.01722</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 10:00Z 1.7kts, 28.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.6107,-32.99194</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 11:00Z 1.3kts, 43.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.62766,-32.97654</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 12:00Z 1.5kts, 41.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.64678,-32.95783</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 13:00Z 1.4kts, 40.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.6643,-32.94015</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 14:00Z 1.3kts, 42.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.68161,-32.9239</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 15:00Z 1.1kts, 44.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.69727,-32.91021</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 16:00Z 1.0kts, 44.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.71154,-32.89774</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 17:00Z 1.0kts, 50.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.7275,-32.88655</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 18:00Z 1.0kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.73982,-32.87364</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 19:00Z 1.1kts, 35.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.75178,-32.85915</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 20:00Z 1.0kts, 33.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.76281,-32.84507</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 21:00Z 10.9kts, 212.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.6473,-32.99864</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 22:00Z 12.6kts, 213.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.51193,-33.17545</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-09 23:00Z 12.4kts, 213.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.3776,-33.34885</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 00:00Z 5.4kts, 213.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.31829,-33.42362</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 01:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.32287,-33.41902</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 02:00Z 0.5kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.32739,-33.41225</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 03:00Z 1.3kts, 36.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.3429,-33.39415</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 04:00Z 1.6kts, 8.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.34734,-33.36828</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 05:00Z 1.7kts, 1.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.34785,-33.34047</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 06:00Z 1.7kts, 6.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.35134,-33.31298</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 07:00Z 1.8kts, 8.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.35622,-33.28408</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 08:00Z 2.0kts, 13.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.36535,-33.25203</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 09:00Z 2.1kts, 10.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.37246,-33.21747</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 10:00Z 2.0kts, 8.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.37829,-33.18437</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 11:00Z 1.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.38951,-33.17135</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 12:00Z 0.8kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.39813,-33.1601</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 13:00Z 0.8kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.40896,-33.15018</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 14:00Z 0.8kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.42074,-33.14223</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 15:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.43046,-33.13361</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 16:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.43936,-33.12629</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 17:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.44728,-33.11696</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 18:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.45516,-33.10889</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 19:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.4629,-33.10023</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 20:00Z 0.6kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.46961,-33.09174</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 21:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.47854,-33.08514</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 22:00Z 0.5kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.48547,-33.07837</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-10 23:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.49253,-33.07046</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 00:00Z 0.8kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.50206,-33.06074</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 01:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.51121,-33.05161</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 02:00Z 0.8kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>101.51964,-33.0406</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 03:00Z 3.2kts, 291.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.45962,-33.02157</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 04:00Z 3.3kts, 287.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.39634,-33.00582</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 05:00Z 3.1kts, 284.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.33723,-32.99306</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 06:00Z 3.2kts, 282.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.27489,-32.98227</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 07:00Z 3.3kts, 272.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.20843,-32.98005</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 08:00Z 2.2kts, 271.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.16499,-32.97926</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 09:00Z 2.1kts, 267.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.12347,-32.98126</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 10:00Z 2.1kts, 263.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.08231,-32.98542</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 11:00Z 2.2kts, 268.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>101.03897,-32.98687</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 12:00Z 2.4kts, 272.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.99074,-32.98521</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 13:00Z 2.5kts, 274.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.9409,-32.98218</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 14:00Z 2.9kts, 274.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.88405,-32.97879</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 15:00Z 3.4kts, 272.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.81579,-32.97642</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 16:00Z 3.2kts, 270.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.75201,-32.97606</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 17:00Z 3.3kts, 270.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.68655,-32.97582</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 18:00Z 3.5kts, 269.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.61709,-32.97698</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 19:00Z 2.4kts, 266.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.56876,-32.97968</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 20:00Z 2.7kts, 266.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.51529,-32.9825</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 21:00Z 2.6kts, 266.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.46427,-32.98541</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 22:00Z 2.5kts, 266.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.41383,-32.9883</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-11 23:00Z 2.5kts, 264.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.36468,-32.99271</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 00:00Z 3.7kts, 267.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.29173,-32.99641</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 01:00Z 7.4kts, 275.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.14594,-32.986</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 02:00Z 11.8kts, 276.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.91233,-32.96406</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 03:00Z 13.1kts, 276.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.65267,-32.94117</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 04:00Z 12.9kts, 275.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.39799,-32.92216</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 05:00Z 11.4kts, 276.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.17249,-32.90267</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 06:00Z 14.6kts, 278.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.8853,-32.86882</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 07:00Z 12.7kts, 275.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.63505,-32.84845</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 08:00Z 13.1kts, 274.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.37677,-32.83344</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 09:00Z 12.9kts, 272.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.12071,-32.82386</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 10:00Z 13.0kts, 272.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.86377,-32.81423</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 11:00Z 12.7kts, 273.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.61299,-32.80318</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 12:00Z 13.2kts, 283.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.35775,-32.75469</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 13:00Z 10.1kts, 293.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.17291,-32.68866</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 14:00Z 8.9kts, 327.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.07667,-32.56351</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 15:00Z 7.1kts, 297.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.95264,-32.50902</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 16:00Z 8.9kts, 262.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.77764,-32.52952</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 17:00Z 11.9kts, 251.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.55491,-32.59518</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 18:00Z 12.3kts, 250.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.32653,-32.66595</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 19:00Z 12.2kts, 251.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.09745,-32.73191</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 20:00Z 12.2kts, 254.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.86494,-32.78931</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 21:00Z 12.4kts, 254.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.62713,-32.84479</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 22:00Z 8.3kts, 256.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.46674,-32.8781</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-12 23:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>95.46364,-32.87788</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 00:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>95.45943,-32.8772</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 01:00Z 0.2kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.46276,-32.87534</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 02:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>95.45642,-32.87546</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 03:00Z 0.8kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>95.44299,-32.88157</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 04:00Z 0.2kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.44107,-32.88376</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 05:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>95.42875,-32.8858</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 06:00Z 0.6kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.41699,-32.88887</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 07:00Z 0.4kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.41084,-32.88462</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 08:00Z 0.2kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.40954,-32.88692</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 09:00Z 9.7kts, 58.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.57291,-32.80114</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 10:00Z 12.5kts, 59.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.78489,-32.69342</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 11:00Z 11.9kts, 60.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>95.99005,-32.59496</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 12:00Z 8.7kts, 60.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.13849,-32.52214</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 13:00Z 9.9kts, 58.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.3057,-32.43546</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 14:00Z 6.1kts, 57.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.40755,-32.38023</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 15:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.40822,-32.37715</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 16:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.40979,-32.37593</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 17:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.41332,-32.37295</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 18:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.41356,-32.36442</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 19:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.41076,-32.35812</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 20:00Z 0.3kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.40652,-32.35467</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 21:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.40088,-32.3506</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 22:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.39753,-32.34439</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-13 23:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>96.40231,-32.34346</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 00:00Z 4.4kts, 119.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.47857,-32.37875</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 01:00Z 10.4kts, 118.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.65941,-32.46145</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 02:00Z 10.1kts, 119.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.83335,-32.54333</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 03:00Z 9.5kts, 121.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>96.99503,-32.62419</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 04:00Z 8.8kts, 122.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.14399,-32.7016</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 05:00Z 1.8kts, 128.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17134,-32.71984</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 06:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.16764,-32.72262</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 07:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.1698,-32.72208</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 08:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17795,-32.71562</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 09:00Z 0.7kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.18977,-32.70818</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 10:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.18836,-32.698</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 11:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.19097,-32.69543</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 12:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.19462,-32.68787</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 13:00Z 0.1kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.19384,-32.68559</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 14:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.19324,-32.68934</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 15:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.19049,-32.69247</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 16:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.19739,-32.69799</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 17:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.20414,-32.70074</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 18:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.21005,-32.70169</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 19:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.21545,-32.70173</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 20:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.22182,-32.70031</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 21:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.22644,-32.69966</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 22:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.23121,-32.69687</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-14 23:00Z 1.2kts, 241.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.21072,-32.70629</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 00:00Z 2.0kts, 249.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17341,-32.71862</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 01:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17401,-32.71928</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 02:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.1739,-32.71911</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 03:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.1739,-32.71902</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 04:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17369,-32.71903</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 05:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17552,-32.71915</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 06:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17552,-32.71915</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 07:00Z 0.0kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17552,-32.71915</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 08:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>97.17021,-32.71362</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 09:00Z 1.3kts, 303.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.14877,-32.70184</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 10:00Z 3.0kts, 62.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.20122,-32.67794</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 11:00Z 7.2kts, 74.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.33835,-32.6456</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 12:00Z 7.1kts, 71.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.47144,-32.60671</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 13:00Z 6.6kts, 70.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.5949,-32.56944</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 14:00Z 7.1kts, 71.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.72709,-32.53094</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 15:00Z 7.4kts, 71.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>97.8653,-32.49077</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 16:00Z 8.0kts, 71.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.01431,-32.44721</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 17:00Z 8.0kts, 81.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.1703,-32.42626</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 18:00Z 7.9kts, 98.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.32509,-32.44423</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 19:00Z 8.2kts, 100.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.48497,-32.46729</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 20:00Z 8.7kts, 100.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.65417,-32.49269</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 21:00Z 8.1kts, 100.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.81223,-32.51521</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 22:00Z 8.6kts, 99.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.97967,-32.53696</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-15 23:00Z 7.7kts, 100.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.12931,-32.55971</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 00:00Z 8.1kts, 107.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.28201,-32.59924</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 01:00Z 8.4kts, 106.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.44103,-32.63815</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 02:00Z 8.6kts, 107.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.60302,-32.68016</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 03:00Z 7.8kts, 109.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.74934,-32.72154</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 04:00Z 7.3kts, 116.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.87954,-32.77443</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 05:00Z 7.6kts, 96.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.02865,-32.78731</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 06:00Z 7.7kts, 110.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.17141,-32.83059</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 07:00Z 3.0kts, 86.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.23022,-32.82741</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 08:00Z 7.3kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.2392,-32.70518</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 09:00Z 7.5kts, 6.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.25369,-32.58096</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 10:00Z 5.6kts, 348.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.23061,-32.48988</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 11:00Z 5.2kts, 349.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.21139,-32.40429</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 12:00Z 5.2kts, 352.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.19781,-32.31779</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 13:00Z 4.6kts, 311.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.12943,-32.26699</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 14:00Z 8.0kts, 264.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.97253,-32.28189</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 15:00Z 8.5kts, 262.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.80661,-32.30259</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 16:00Z 8.4kts, 262.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.64265,-32.32087</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 17:00Z 8.2kts, 263.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.48141,-32.33682</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 18:00Z 8.4kts, 261.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.3182,-32.35793</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 19:00Z 8.6kts, 259.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.15055,-32.38423</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 20:00Z 8.7kts, 260.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.98171,-32.41025</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 21:00Z 8.9kts, 260.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.80948,-32.43549</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 22:00Z 8.7kts, 262.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.63817,-32.45442</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-16 23:00Z 9.8kts, 260.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.44771,-32.48187</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 00:00Z 8.0kts, 280.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.29179,-32.45839</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 01:00Z 2.2kts, 265.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>98.24813,-32.46145</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 02:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>98.24513,-32.46182</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 03:00Z 0.2kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.24139,-32.46095</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 04:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>98.24918,-32.45654</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 05:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>98.24728,-32.44889</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 06:00Z 0.5kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>98.24887,-32.44113</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 07:00Z 0.7kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.25283,-32.43074</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 08:00Z 0.5kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.25525,-32.42326</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 09:00Z 0.1kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.25644,-32.42373</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 10:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>98.25884,-32.41685</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 11:00Z 0.7kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.26238,-32.42801</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 12:00Z 3.3kts, 94.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.32713,-32.43217</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 13:00Z 3.7kts, 101.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.39851,-32.44402</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 14:00Z 4.6kts, 100.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.48796,-32.45675</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 15:00Z 3.7kts, 99.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.56059,-32.46633</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 16:00Z 3.7kts, 97.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.6333,-32.47391</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 17:00Z 3.8kts, 102.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.70725,-32.48669</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 18:00Z 3.5kts, 103.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.77365,-32.50007</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 19:00Z 3.3kts, 104.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.83698,-32.51335</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 20:00Z 3.5kts, 102.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.90541,-32.52585</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 21:00Z 3.6kts, 99.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>98.97558,-32.53528</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 22:00Z 3.4kts, 96.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.04187,-32.54102</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-17 23:00Z 2.1kts, 99.0°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>99.08301,-32.54675</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 00:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>99.07902,-32.54569</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 01:00Z 0.0kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.07933,-32.5456</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 02:00Z 0.3kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.08115,-32.54061</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 03:00Z 0.4kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.07881,-32.53503</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 04:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>99.07674,-32.52794</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 05:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>99.07871,-32.52123</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 06:00Z 0.6kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>99.08222,-32.51099</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 07:00Z 0.4kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>99.08183,-32.50366</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 08:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>99.07964,-32.50102</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 09:00Z 2.0kts, 103.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.11866,-32.50891</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 10:00Z 12.4kts, 91.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.36353,-32.51236</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 11:00Z 12.3kts, 113.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.58893,-32.59097</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 12:00Z 13.0kts, 115.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>99.82157,-32.68297</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 13:00Z 12.3kts, 119.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.03419,-32.7823</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 14:00Z 8.2kts, 123.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.1717,-32.85611</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 15:00Z 0.2kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>100.1711,-32.85986</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 16:00Z 0.3kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.17285,-32.85459</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 17:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>100.17142,-32.856</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 18:00Z 0.4kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.17867,-32.8517</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 19:00Z 0.5kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.18114,-32.84285</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 20:00Z 0.5kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.18293,-32.83488</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 21:00Z 0.3kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>100.18442,-32.8293</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 22:00Z 0.8kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>100.19352,-32.81923</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-18 23:00Z 0.2kts, -°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.19118,-32.81592</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 00:00Z 0.1kts, -°</name>
+<styleUrl>#0</styleUrl>
+<Point><coordinates>100.19373,-32.8169</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 01:00Z 6.2kts, 356.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.18594,-32.71439</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 02:00Z 13.7kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.20381,-32.48581</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 03:00Z 12.8kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.22073,-32.27257</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 04:00Z 13.7kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.23836,-32.04509</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 05:00Z 13.4kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.25569,-31.82189</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 06:00Z 13.5kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.2734,-31.59658</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 07:00Z 13.2kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.29259,-31.3769</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 08:00Z 13.1kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.31101,-31.15993</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 09:00Z 12.6kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.32886,-30.95077</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 10:00Z 13.2kts, 3.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.34299,-30.73155</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 11:00Z 12.9kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.36007,-30.51631</coordinates></Point>
+</Placemark>
+<Placemark><name>2025-04-19 12:00Z 12.6kts, 4.0°</name>
+<styleUrl>#1</styleUrl>
+<Point><coordinates>100.37846,-30.30609</coordinates></Point>
+</Placemark>
+<ScreenOverlay>
+<name>Latest data here:https://www.mh370-caption.net/index.php/armada-tracking/</name>
+<Icon>
+<href>https://trise5631.github.io/overlay.png</href>
+</Icon>
+<overlayXY x="0" y="1" xunits="fraction" yunits="fraction"/>
+<screenXY x="0.01" y="0.99" xunits="fraction" yunits="fraction"/>
+<size x="0" y="0" xunits="fraction" yunits="fraction"/>
+</ScreenOverlay>
+</Document></kml>
