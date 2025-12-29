@@ -8,8 +8,10 @@
 </Style>
 <Style id="0"><LabelStyle><scale>0</scale></LabelStyle><IconStyle><color>ff00ff00</color><scale>0.2</scale><Icon><href>http://maps.google.com/mapfiles/kml/pal2/icon26.png</href></Icon></IconStyle>
 </Style>
+<Folder>
 <name>ARMADA 86 05 - MH370-CAPTION.net</name>
-<description>2025-12-23 10:00Z / 2025-12-29 16:00Z</description>
+<description>En route to the search area<br>
+Estimated ETA: 30 Dec 20:00Z<br>2025-12-23 10:00Z / 2025-12-29 16:00Z</description>
 <Placemark><name>Trajectory</name>
 <styleUrl>#0</styleUrl>
 <LineString>
@@ -622,6 +624,7 @@
 <styleUrl>#1</styleUrl>
 <Point><coordinates>99.41204,-34.95245</coordinates></Point>
 </Placemark>
+</Folder>
 <ScreenOverlay>
 <name>Latest data here:https://www.mh370-caption.net/index.php/armada-tracking/</name>
 <Icon>
