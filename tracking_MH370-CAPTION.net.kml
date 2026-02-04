@@ -15,7 +15,9 @@
 <Folder>
 <name>ARMADA 86 05 - MH370-CAPTION.net</name>
 <description>ARMADA 86 05: En route to Samoa
+\t>ETA: 2026-02-27 04:00Z
 ARMADA 86 04: En route to Mauritius
+\t>ETA: 2026-02-23 12:00Z
 2026-01-27 23:00Z / 2026-02-04 06:00Z</description>
 <Placemark><name>Trajectory</name>
 <styleUrl>#0</styleUrl>
