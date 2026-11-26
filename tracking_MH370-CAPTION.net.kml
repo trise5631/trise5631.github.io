@@ -69,9 +69,8 @@ http://maps.google.com/mapfiles/kml/pal2/icon26.png</href>
 </Style>
 <Folder>
 <name>ARMADA 86 05 - MH370-CAPTION.net</name>
-<description>ARMADA 86 05 dest.: CALIBRATION SITE
-Armada 86 05 left Singapore.
-The search could resume in December.
+<description>Armada 86 05 on its way to the search area
+ETA : December 4-6 
 2026-11-21 22:00Z / 2026-11-26 17:00Z</description>
 <Placemark><name>Trajectory</name>
 <styleUrl>#0</styleUrl>
